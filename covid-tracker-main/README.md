@@ -4,4 +4,3 @@ Coronavirus (COVID-19) Tracker Dashboard with Data from API - HTML CSS JavaScrip
 
 ## Preview
 
-!["Coronavirus (COVID-19) Tracker Dashboard"]( "Coronavirus (COVID-19) Tracker Dashboard")
