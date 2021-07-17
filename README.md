@@ -1,6 +1,6 @@
 # Covid-Tracker
 
-1). This is a coronavirus tracker Dashboard website which shows
+1). This is a coronavirus tracker Dashboard website that shows
 stats across various cities and countries.
 
 2). The data fetched with help of API, is represented in the form of
